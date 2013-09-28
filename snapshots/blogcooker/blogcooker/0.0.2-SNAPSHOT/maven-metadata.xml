@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>blogcooker</groupId>
   <artifactId>blogcooker</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130928.131800</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20130928.132043</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20130928131800</lastUpdated>
+    <lastUpdated>20130928132043</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20130928.131800-2</value>
-        <updated>20130928131800</updated>
+        <value>0.0.2-20130928.132043-1</value>
+        <updated>20130928132043</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20130928.131800-2</value>
-        <updated>20130928131800</updated>
+        <value>0.0.2-20130928.132043-1</value>
+        <updated>20130928132043</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
