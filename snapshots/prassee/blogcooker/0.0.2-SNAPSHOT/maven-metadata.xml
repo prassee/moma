@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>blogcooker</groupId>
+  <groupId>prassee</groupId>
   <artifactId>blogcooker</artifactId>
   <version>0.0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130928.133930</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20131006.131204</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20130928133930</lastUpdated>
+    <lastUpdated>20131006131204</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.2-20130928.133930-2</value>
-        <updated>20130928133930</updated>
+        <value>0.0.2-20131006.131204-1</value>
+        <updated>20131006131204</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.2-20130928.133930-2</value>
-        <updated>20130928133930</updated>
+        <value>0.0.2-20131006.131204-1</value>
+        <updated>20131006131204</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

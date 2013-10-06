@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>blogcooker</groupId>
+  <groupId>prassee</groupId>
   <artifactId>blogcooker</artifactId>
   <versioning>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
       <version>0.0.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130928133930</lastUpdated>
+    <lastUpdated>20131006131204</lastUpdated>
   </versioning>
 </metadata>
