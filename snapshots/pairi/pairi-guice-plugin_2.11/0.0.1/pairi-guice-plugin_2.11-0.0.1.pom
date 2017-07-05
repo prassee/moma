@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>pairi</groupId>
+    <artifactId>pairi-guice-plugin_2.11</artifactId>
+    <packaging>jar</packaging>
+    <description>pairi-guice-plugin</description>
+    <version>0.0.1</version>
+    <name>pairi-guice-plugin</name>
+    <organization>
+        <name>pairi</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.11.8</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>prassee</groupId>
+            <artifactId>peregrine_2.11</artifactId>
+            <version>0.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>prassee</groupId>
+            <artifactId>peregrine-server-plugin_2.11</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>moma</id>
+            <name>moma</name>
+            <url>https://github.com/prassee/moma/raw/master/snapshots/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
